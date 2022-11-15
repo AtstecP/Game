@@ -1,3 +1,2 @@
 # Game
-It's just a simple games 
-Choise another branch
+It's just a simple games. Choise another branch
